@@ -1,0 +1,5 @@
+<div class="brand-container">
+  <mat-card *ngFor="let brand of brands" class="brand-card" [@fadeInOut]>
+    <img mat-card-image [src]="brand.image" alt="{{ brand.name }} Image">
+  </mat-card>
+</div>
