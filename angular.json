@@ -66,10 +66,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "desfileSilviModas:build:production"
+              "buildTarget": "desfileSilviModas:build:production"
             },
             "development": {
-              "browserTarget": "desfileSilviModas:build:development"
+              "buildTarget": "desfileSilviModas:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -77,7 +77,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "desfileSilviModas:build"
+            "buildTarget": "desfileSilviModas:build"
           }
         },
         "test": {
