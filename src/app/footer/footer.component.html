@@ -1,4 +1,4 @@
-<hr class="divider-footer">
+<hr [ngClass]="isMobile? 'divider-footer-mobile': 'divider-footer'">
 <div class="informationOfSilviModas">
   <b>SilviModas</b>
   <p>Hacemos tu sueño realidad</p>
@@ -10,10 +10,10 @@
   </p>
 </div>
 <div class="container-footer">
-  <hr class="line-footer">
+  <hr [ngClass]="isMobile? 'line-footer-mobile': 'line-footer'">
   <a role="button" class="logos-footer margin-first-logo" target="_blank" href="https://www.instagram.com/silvimodas"><i class="fa-brands fa-instagram"></i></a>
   <a role="button" class="logos-footer" target="_blank" href="https://api.whatsapp.com/send?phone=2615562934"><i class="fa-brands fa-whatsapp"></i></a>
   <a role="button" class="logos-footer" target="_blank" href="https://www.facebook.com/silestiloymodas"><i class="fa-brands fa-facebook-f"></i></a>
   <a role="button" class="logos-footer margin-last-logo" target="_blank" href="https://www.tiktok.com/@silvimodas?_t=8jRmmuCEtvC&_r=1"><i class="fa-brands fa-tiktok"></i></a>
-  <hr class="line-footer">
+  <hr [ngClass]="isMobile? 'line-footer-mobile': 'line-footer'">
 </div>

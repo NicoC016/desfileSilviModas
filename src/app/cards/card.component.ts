@@ -20,28 +20,29 @@ import { trigger, style, animate, transition } from '@angular/animations';
 export class CardComponent {
   brands = [
     {
+      name: 'algoMasQueVendimia',
+      image: '../assets/img/logos/logo_algoMasQueVendimia.png',
+      url:'https://www.instagram.com/algomasquevendimia'
+    },
+    {
       name: 'Silvi Modas',
-      image: '../assets/img/logo_silviModas.png',
+      image: '../assets/img/logos/logo_silviModas.png',
     },
     {
-      name: 'Ropa Deportiva Pro',
-      image: '../assets/img/logo_silviModas.png',
+      name: 'Silvi Modas',
+      image: '../assets/img/logos/logo_silviModas.png',
     },
     {
-      name: 'Ropa Deportiva Pro',
-      image: '../assets/img/logo_silviModas.png',
+      name: 'Silvi Modas',
+      image: '../assets/img/logos/logo_silviModas.png',
     },
     {
-      name: 'Ropa Deportiva Pro',
-      image: '../assets/img/logo_silviModas.png',
+      name: 'Silvi Modas',
+      image: '../assets/img/logos/logo_silviModas.png',
     },
     {
-      name: 'Ropa Deportiva Pro',
-      image: '../assets/img/logo_silviModas.png',
-    },
-    {
-      name: 'Ropa Deportiva Pro',
-      image: '../assets/img/logo_silviModas.png',
+      name: 'Silvi Modas',
+      image: '../assets/img/logos/logo_silviModas.png',
     },
   ];
   

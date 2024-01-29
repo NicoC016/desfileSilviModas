@@ -1,5 +1,7 @@
 <div class="brand-container">
   <mat-card *ngFor="let brand of brands" class="brand-card" [@fadeInOut]>
-    <img mat-card-image [src]="brand.image" alt="{{ brand.name }} Image">
+    <a href={{brand.url}} target="_blank">
+      <img mat-card-image [src]="brand.image" alt="{{ brand.name }} Image">
+    </a>
   </mat-card>
 </div>

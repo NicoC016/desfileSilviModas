@@ -1,9 +1,9 @@
 <mat-toolbar class="toolbar-container fixed-top">
     <span class="logo">Desfile Silvi Modas</span>
-    <span> <img src="..\assets\img\logo_silviModas.png" alt="" class="img-toolbar"></span>
+    <span> <img src="..\assets\img\logos\logo_silviModas.png" alt="" class="img-toolbar"></span>
 </mat-toolbar>
 <app-promotion></app-promotion>
-<section class="desciption-desfile-container">
+<section [ngClass]="isMobile? 'desciption-desfile-container-mobile' : 'desciption-desfile-container'">
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, sit maxime, doloribus fugiat sapiente tempora aspernatur porro ratione rem quidem molestiae saepe laudantium aperiam perferendis consequuntur ullam nobis ipsum at?</p>
 </section>
 <app-card></app-card>
