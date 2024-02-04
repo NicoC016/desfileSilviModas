@@ -20,37 +20,49 @@ import { trigger, style, animate, transition } from '@angular/animations';
 export class CardComponent {
   brands = [
     {
+      name: 'Silvi Modas',
+      image: '../assets/img/logos/logo_silviModas.png',
+      url:'https://www.instagram.com/algomasquevendimia'
+    },
+    {
       name: 'algoMasQueVendimia',
       image: '../assets/img/logos/logo_algoMasQueVendimia.png',
       url:'https://www.instagram.com/algomasquevendimia'
     },
     {
-      name: 'Silvi Modas',
-      image: '../assets/img/logos/logo_silviModas.png',
+      name: 'Paseo Ruttini',
+      image: '../assets/img/logos/logo_paseo.png',
+      url:'https://www.instagram.com/algomasquevendimia'
     },
     {
       name: 'Elba maquillaje social',
       image: '../assets/img/logos/logo_elba.png',
+      url:'https://www.instagram.com/algomasquevendimia',
     },
     {
       name: 'Daniel Ortiz',
       image: '../assets/img/logos/logo_daniel-ortiz.png',
+      url:'https://www.instagram.com/algomasquevendimia',
     },
     {
       name: 'Madreluna',
       image: '../assets/img/logos/logo_madreluna.png',
+      url:'https://www.instagram.com/algomasquevendimia'
     },
     {
       name: 'Cin Zandri',
       image: '../assets/img/logos/logo_cin-zandri.png',
+      url:'https://www.instagram.com/algomasquevendimia'
     },
     {
       name: 'Grinchuza',
       image: '../assets/img/logos/logo_grinchuza.png',
+      url:'https://www.instagram.com/algomasquevendimia'
     },
     {
       name: 'Genial coquimbito',
       image: '../assets/img/logos/logo_genial-coquimbito.png',
+      url:'https://www.instagram.com/algomasquevendimia'
     },
   ];
   
