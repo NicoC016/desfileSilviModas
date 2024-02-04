@@ -29,20 +29,28 @@ export class CardComponent {
       image: '../assets/img/logos/logo_silviModas.png',
     },
     {
-      name: 'Silvi Modas',
-      image: '../assets/img/logos/logo_silviModas.png',
+      name: 'Elba maquillaje social',
+      image: '../assets/img/logos/logo_elba.png',
     },
     {
-      name: 'Silvi Modas',
-      image: '../assets/img/logos/logo_silviModas.png',
+      name: 'Daniel Ortiz',
+      image: '../assets/img/logos/logo_daniel-ortiz.png',
     },
     {
-      name: 'Silvi Modas',
-      image: '../assets/img/logos/logo_silviModas.png',
+      name: 'Madreluna',
+      image: '../assets/img/logos/logo_madreluna.png',
     },
     {
-      name: 'Silvi Modas',
-      image: '../assets/img/logos/logo_silviModas.png',
+      name: 'Cin Zandri',
+      image: '../assets/img/logos/logo_cin-zandri.png',
+    },
+    {
+      name: 'Grinchuza',
+      image: '../assets/img/logos/logo_grinchuza.png',
+    },
+    {
+      name: 'Genial coquimbito',
+      image: '../assets/img/logos/logo_genial-coquimbito.png',
     },
   ];
   
