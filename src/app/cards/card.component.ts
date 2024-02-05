@@ -69,6 +69,21 @@ export class CardComponent {
       image: '../assets/img/logos/logo_genial-coquimbito.png',
       url:'#'
     },
+    {
+      name: 'Carolina',
+      image: '../assets/img/logos/logo_carolina.jpg',
+      url:'#'
+    },
+    {
+      name: 'Lucentini',
+      image: '../assets/img/logos/logo_lucentini.png',
+      url:'#'
+    },
+    {
+      name: 'Andrea ochiuto',
+      image: '../assets/img/logos/logo_andrea-ochiuto.jpg',
+      url:'#'
+    },
   ];
   
 }
