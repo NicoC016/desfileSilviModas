@@ -84,6 +84,11 @@ export class CardComponent {
       image: '../assets/img/logos/logo_andrea-ochiuto.jpg',
       url:'#'
     },
+    {
+      name: 'Todo cell',
+      image: '../assets/img/logos/logo_todo-cell.jpg',
+      url:'#'
+    },
   ];
   
 }
