@@ -27,7 +27,7 @@ export class CardComponent {
     {
       name: 'Paseo Ruttini',
       image: '../assets/img/logos/logo_paseo.png',
-      url:'#'
+      url:''
     },
     {
       name: 'algoMasQueVendimia',
@@ -42,12 +42,12 @@ export class CardComponent {
     {
       name: 'Elba maquillaje social',
       image: '../assets/img/logos/logo_elba.png',
-      url:'#',
+      url:'https://api.whatsapp.com/send?phone=2615081805',
     },
     {
       name: 'Daniel Ortiz',
       image: '../assets/img/logos/logo_daniel-ortiz.png',
-      url:'#',
+      url:'',
     },
     {
       name: 'Madreluna',
@@ -57,27 +57,27 @@ export class CardComponent {
     {
       name: 'Cin Zandri',
       image: '../assets/img/logos/logo_cin-zandri.png',
-      url:'#'
+      url:'https://www.instagram.com/cin.zandri'
     },
     {
       name: 'Grinchuza',
       image: '../assets/img/logos/logo_grinchuza.png',
-      url:'#'
+      url:'https://www.instagram.com/Grinchuza'
     },
     {
       name: 'Genial coquimbito',
       image: '../assets/img/logos/logo_genial-coquimbito.png',
-      url:'#'
+      url:'https://www.instagram.com/genial_coquimbito'
     },
     {
       name: 'Carolina',
       image: '../assets/img/logos/logo_carolina.jpg',
-      url:'#'
+      url:'https://api.whatsapp.com/send?phone=261681703'
     },
     {
       name: 'Lucentini',
       image: '../assets/img/logos/logo_lucentini.png',
-      url:'#'
+      url:'https://www.lucentinimuebles.com.ar/'
     },
     {
       name: 'Andrea ochiuto',
