@@ -82,13 +82,19 @@ export class CardComponent {
     {
       name: 'Andrea ochiuto',
       image: '../assets/img/logos/logo_andrea-ochiuto.jpg',
-      url:'#'
+      url:'https://www.instagram.com/sentirtebien1985'
     },
     {
-      name: 'Todo cell',
-      image: '../assets/img/logos/logo_todo-cell.jpg',
-      url:'#'
+      name: 'Grido',
+      image: '../assets/img/logos/logo_grido.jpg',
+      url:'https://www.instagram.com/grido.coquimbito'
     },
+    //{
+      //name: 'Todo cell',
+      //image: '../assets/img/logos/logo_todo-cell.jpg',
+      //url:'#'
+    //},
+    
   ];
   
 }
