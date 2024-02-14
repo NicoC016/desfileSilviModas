@@ -72,7 +72,7 @@ export class CardComponent {
     {
       name: 'Carolina',
       image: '../assets/img/logos/logo_carolina.jpg',
-      url:'https://api.whatsapp.com/send?phone=261681703'
+      url:'https://api.whatsapp.com/send?phone=2615681703'
     },
     {
       name: 'Lucentini',
