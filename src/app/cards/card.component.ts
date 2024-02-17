@@ -94,7 +94,11 @@ export class CardComponent {
       image: '../assets/img/logos/logo_centro-holistico.jpg',
       url:'https://www.instagram.com/manadeluz/'
     },
-    
+    {
+      name: 'Patri',
+      image: '../assets/img/logos/logo_patricia.jpg',
+      url:'https://www.instagram.com/_patri_a/'
+    },
   ];
   
 }
