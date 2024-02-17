@@ -89,11 +89,11 @@ export class CardComponent {
       image: '../assets/img/logos/logo_grido.jpg',
       url:'https://www.instagram.com/grido.coquimbito'
     },
-    //{
-      //name: 'Todo cell',
-      //image: '../assets/img/logos/logo_todo-cell.jpg',
-      //url:'#'
-    //},
+    {
+      name: 'Centro Holistico',
+      image: '../assets/img/logos/logo_centro-holistico.jpg',
+      url:'https://www.instagram.com/manadeluz/'
+    },
     
   ];
   
